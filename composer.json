@@ -1,0 +1,17 @@
+{
+    "name": "dachoagit/inspire",
+    "autoload": {
+        "psr-4": {
+            "Dachoagit\\Inspire\\": "src/"
+        }
+    },
+   "authors": [
+        {
+            "name": "Le Dac Hoa",
+            "email": "ledachoa01@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
