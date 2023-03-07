@@ -21,8 +21,5 @@ Open the `config/app.php` file and scroll down to the providers array.
 Add the following line of code in that section:
 
 ```bash
-/*
- * Package Service Providers...
- */
-Fhsinchy\Inspire\Providers\InspirationProvider::class,
+Dachoagit\Inspire\Providers\InspirationProvider::class,
 ```
